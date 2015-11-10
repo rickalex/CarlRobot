@@ -1,2 +1,2 @@
 # CarlRobot
-A robot named Carl built in a comtec class.
+A robot named Carl built in a Comm Tech class.
